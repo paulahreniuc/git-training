@@ -1,2 +1,2 @@
-This is the first line in the first file.
+This the first file.
 Edit 1. 
