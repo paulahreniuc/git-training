@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is the first file :) . ok another conflict 
+=======
+This is the first file :) . We added some more.
+>>>>>>> Modified again
 Edit 1. 
